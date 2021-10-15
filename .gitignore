@@ -1,0 +1,13 @@
+ISES_2021/*.mat
+ISES_2021/data/*
+ISES_2021/benchmarks/*
+
+*.asv
+*.m~
+*.mat~
+*.bak
+*.o
+*.mexa64
+config.ini*
+config-*.ini
+tmp/*
