@@ -1,6 +1,6 @@
-ISES_2021/*.mat
-ISES_2021/data/*
-ISES_2021/benchmarks/*
+example_EUO/*.mat
+example_EUO/data/*
+example_EUO/benchmarks/*
 
 *.asv
 *.m~
