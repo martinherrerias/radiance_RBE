@@ -3,4 +3,4 @@
 	url = https://gitlab.hhi.fraunhofer.de/daube/yamlmatlab.git
 [submodule "matlab-pvmeteo"]
 	path = matlab-pvmeteo
-	url = git@github.com:martinherrerias/matlab-pvmeteo.git
+	url = ../matlab-pvmeteo.git
